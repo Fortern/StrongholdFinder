@@ -1,0 +1,7 @@
+{
+  "message.forternstrongholdfinder.eye_detected": "Throw %1$s: Eye of Ender detected at %2$s",
+  "message.forternstrongholdfinder.eye_last_seen": "Throw %1$s: Eye of Ender last seen at %2$s",
+  "message.forternstrongholdfinder.calculation_failed": "Unable to estimate the stronghold location. Try again by throwing from two positions farther apart.",
+  "message.forternstrongholdfinder.stronghold_estimated": "Estimated stronghold location: %s",
+  "message.forternstrongholdfinder.suggest_teleport": "Click to enter the teleport command"
+}

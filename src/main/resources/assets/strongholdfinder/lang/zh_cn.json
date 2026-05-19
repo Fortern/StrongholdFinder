@@ -1,0 +1,7 @@
+{
+  "message.forternstrongholdfinder.eye_detected": "第 %1$s 次投掷：在 %2$s 检测到末影之眼",
+  "message.forternstrongholdfinder.eye_last_seen": "第 %1$s 次投掷：末影之眼最后出现于 %2$s",
+  "message.forternstrongholdfinder.calculation_failed": "无法估算要塞位置。请在两个相距更远的位置投掷末影之眼后重试。",
+  "message.forternstrongholdfinder.stronghold_estimated": "预计要塞位置：%s",
+  "message.forternstrongholdfinder.suggest_teleport": "点击填入传送命令"
+}

@@ -1,0 +1,14 @@
+{
+	"required": true,
+	"package": "xyz.fortern.strongholdfinder.client.mixin",
+	"compatibilityLevel": "JAVA_25",
+	"client": [
+      "ClientMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	},
+	"overwrites": {
+		"requireAnnotations": true
+	}
+}
